@@ -1,3 +1,0 @@
-/home/uo245275/g4work/MyFirstApplication/build/CMakeFiles/rebuild_cache.dir
-/home/uo245275/g4work/MyFirstApplication/build/CMakeFiles/edit_cache.dir
-/home/uo245275/g4work/MyFirstApplication/build/CMakeFiles/ourmain.dir
